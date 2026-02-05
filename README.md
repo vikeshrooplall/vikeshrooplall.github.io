@@ -72,3 +72,26 @@ Running the Website
 After cloning, simply open index.html in any web browser
 
 No server or additional setup required, it's static HTML/CSS/JS
+
+🤝 Contributing
+While this is a personal portfolio, suggestions and improvements are welcome!
+
+Fork the repository
+
+Create a feature branch (git checkout -b feature/improvement)
+
+Commit changes (git commit -m 'Add some improvement')
+
+Push to branch (git push origin feature/improvement)
+
+Open a Pull Request
+
+
+🙏 Acknowledgments
+Le Wagon for the web development bootcamp
+
+Bootstrap for the CSS framework
+
+Font Awesome for icons
+
+GitHub for hosting and version control
