@@ -27,18 +27,20 @@ This is my personal portfolio website showcasing my journey as a full-stack deve
 
 ## 📁 Project Structure
 
-vikeshrooplall.github.io/
-├── index.html # Main portfolio page
-├── style.css # Main stylesheet
-├── script.js # JavaScript functionality
-├── assets/ # All media and documents
-│ ├── images/ # Project screenshots, profile photo
-│ ├── pdf/ # Resume/CV in PDF format
-│ └── icons/ # Favicon and social icons
-├── README.md # This documentation file
-├── LICENSE # MIT License file
-├── 404.html # Custom 404 error page
-└── .gitignore # Files to ignore in Git
+```bash
+📁 vikeshrooplall.github.io/
+├── 📄 index.html           # Main portfolio page
+├── 📄 style.css            # Main stylesheet
+├── 📄 script.js            # JavaScript functionality
+├── 📁 assets/              # All media and documents
+│   ├── 📁 images/          # Project screenshots, profile photo
+│   ├── 📁 pdf/             # Resume/CV in PDF format
+│   └── 📁 icons/           # Favicon and social icons
+├── 📄 README.md            # This documentation file
+├── 📄 LICENSE              # MIT License file
+├── 📄 404.html            # Custom 404 error page
+└── 📄 .gitignore           # Files to ignore in Git
+```
 
 
 ## 🚀 Getting Started
@@ -73,7 +75,7 @@ After cloning, simply open index.html in any web browser
 
 No server or additional setup required, it's static HTML/CSS/JS
 
-🤝 Contributing
+Contributing
 While this is a personal portfolio, suggestions and improvements are welcome!
 
 Fork the repository
@@ -87,7 +89,7 @@ Push to branch (git push origin feature/improvement)
 Open a Pull Request
 
 
-🙏 Acknowledgments
+Acknowledgments
 Le Wagon for the web development bootcamp
 
 Bootstrap for the CSS framework
