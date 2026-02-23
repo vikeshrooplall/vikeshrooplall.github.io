@@ -831,9 +831,13 @@ footer span {
 }
 
 /* RESPONSIVE */
-@media (max-width: 768px) {
+@media (max-width: 412px) {
   nav {
-    padding: 1.2rem 1.5rem;
+    padding: 1rem 1.2rem;
+  }
+
+  .nav-logo {
+    font-size: 1.2rem;
   }
 
   .nav-links {
@@ -841,8 +845,8 @@ footer span {
   }
 
   .hero {
-    padding: 2rem 1.5rem;
-    padding-top: 7rem;
+    padding-top: 10px;
+    min-height: 90vh;
   }
 
   .hero-number {
@@ -851,16 +855,16 @@ footer span {
 
   .hero-image {
     position: relative;
-    transform: translateY(-90%);
-    right: -60%;
-    width: 150px;
-    height: 150px;
+    transform: translateY(-220%);
+    right: -70%;
+    width: 100px;
+    height: 100px;
   }
 
 
   .hero-image img {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
   }
 
   .hero-cta {
