@@ -11,8 +11,8 @@
 This is my personal portfolio website showcasing my journey as a full-stack developer transitioning from diverse professional backgrounds. The site highlights my projects, technical skills, and provides a way for potential employers or collaborators to contact me.
 
 ## ✨ Features
-- **Responsive Design** - Works on all devices (mobile, tablet, desktop)
-- **Project Showcase** - Clean display of my best work with live demos
+<!-- - **Responsive Design** - Works on all devices (mobile, tablet, desktop) -->
+- **Project Showcase** - Clean display of my best work
 - **Skills Section** - Organized display of technical abilities
 - **Contact Information** - Easy ways to get in touch
 - **Downloadable CV** - Direct link to my resume
@@ -34,8 +34,7 @@ This is my personal portfolio website showcasing my journey as a full-stack deve
 ├── 📄 script.js            # JavaScript functionality
 ├── 📁 assets/              # All media and documents
 │   ├── 📁 images/          # Project screenshots, profile photo
-│   ├── 📁 pdf/             # Resume/CV in PDF format
-│   └── 📁 icons/           # Favicon and social icons
+│   ├── 📁 pdf/             # Resume/CV in PDF format         
 ├── 📄 README.md            # This documentation file
 ├── 📄 LICENSE              # MIT License file
 ├── 📄 404.html            # Custom 404 error page
